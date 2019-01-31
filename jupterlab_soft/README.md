@@ -8,7 +8,10 @@ jupyter labextension install jupyterlab-drawio
 
 ## 可以看html:   
 jupyter labextension install @mflevine/jupyterlab_html  
-![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif)    
+![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif| height = 100px)    
+![Alt Text][https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif| height = 100px]    
+![Alt Text][[https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif| height = 100px]]  
+[[https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif| height = 100px]] 
 
 
 ## 目錄結構化   
