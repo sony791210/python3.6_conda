@@ -45,7 +45,7 @@ export ANACONDA_PATH=/opt/conda
  
     
 ### 啟動環境    
-sour    ce ~/.bashrc    
+source ~/.bashrc    
  
  
 ### 執行jupyter lab     
