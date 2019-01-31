@@ -2,16 +2,13 @@
 查看你有的套件  
 jupyter labextension list   
     
-## 可以畫圖及看圖   
-jupyter labextension install jupyterlab-drawio  
-![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/drawio.gif) 
+## 可以畫圖及看圖       
+jupyter labextension install jupyterlab-drawio      
+![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/drawio.gif)  
 
-## 可以看html:   
-jupyter labextension install @mflevine/jupyterlab_html  
-![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif | height = 100px)    
-![Alt Text][https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif | height = 100px]    
-![Alt Text][[https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif | height = 100px]]  
-[[https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif | height = 100px]] 
+## 可以看html:      
+jupyter labextension install @mflevine/jupyterlab_html      
+![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/html.gif)        
 
 
 ## 目錄結構化   
@@ -19,16 +16,16 @@ jupyter labextension install @jupyterlab/toc
 ![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/toc.gif)    
 
 
-## 在jupyterlab分頁上網 
-pip install jupyterlab_iframe   
-jupyter labextension install jupyterlab_iframe  
-jupyter serverextension enable --py jupyterlab_iframe   
+## 在jupyterlab分頁上網     
+pip install jupyterlab_iframe       
+jupyter labextension install jupyterlab_iframe      
+jupyter serverextension enable --py jupyterlab_iframe       
 ![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/iframe.gif)     
 
 
 
-## 可以看變數得資料
-jupyter labextension install @lckr/jupyterlab_variableinspector 
+## 可以看變數得資料 
+jupyter labextension install @lckr/jupyterlab_variableinspector     
 ![Alt Text](https://github.com/sony791210/python3.6_conda/blob/master/jupterlab_soft/photo/variable.gif)        
 
 # jupyter kernelspec    
