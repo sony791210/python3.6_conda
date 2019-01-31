@@ -1,15 +1,15 @@
-#python3.6_conda 
+#python3.6_conda   
 
-根據步驟將 Python 快速安裝的方式 
+根據步驟將 Python 快速安裝的方式   
 
-Keras                     2.2.2                     <pip> 
-Keras-Applications        1.0.4                     <pip> 
-Keras-Preprocessing       1.0.2                     <pip> 
-tensorboard               1.10.0           py36hf484d3e_0    anaconda 
-tensorflow                1.10.0          gpu_py36h97a2126_0    anaconda 
-tensorflow-base           1.10.0          gpu_py36h6ecc378_0    anaconda 
-tensorflow-gpu            1.10.0               hf154084_0    anaconda 
-jupyterlab                0.34.7                   py36_0    conda-forge 
+Keras                     2.2.2                     <pip>   
+Keras-Applications        1.0.4                     <pip>  
+Keras-Preprocessing       1.0.2                     <pip>  
+tensorboard               1.10.0           py36hf484d3e_0     anaconda   
+tensorflow                1.10.0          gpu_py36h97a2126_0    anaconda   
+tensorflow-base           1.10.0          gpu_py36h6ecc378_0    anaconda   
+tensorflow-gpu            1.10.0               hf154084_0    anaconda   
+jupyterlab                0.34.7                   py36_0    conda-forge   
 
 
 
